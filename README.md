@@ -3,7 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ghost01900/PTA-ZJU-C-Solutions?style=social)](https://github.com/Ghost01900/PTA-C-solutions-ZJU/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ghost01900/PTA-ZJU-C-Solutions)
 ![Language](https://img.shields.io/badge/language-C-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 > 浙江大学《C语言程序设计》PTA习题全解 | Zhejiang University C Programming PTA Solutions
 
@@ -70,16 +69,6 @@ return 0;
 1. 查看已有Issue
 2. 如无类似问题，创建新Issue
 3. 提供详细的问题描述和复现步骤
-
-## 📄 许可证
-
-本项目采用MIT许可证。详见[LICENSE](LICENSE)文件。
-LICENSE摘要
-
-MIT License
-Copyright (c) 2023 Your Name
-权限包括：使用、复制、修改、合并、发布、分发、再许可和/或销售软件的副本
-条件：在软件的所有副本中包含上述版权声明和本许可声明
 
 
 ## 🙏 致谢
