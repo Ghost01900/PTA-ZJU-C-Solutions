@@ -1,4 +1,5 @@
-# PTA-ZJU-C-Solutions
+# PTA答案 浙大版《C语言程序设计（第4版）》题目集 
+PTA-ZJU-C-Solutions
 
 [![GitHub stars](https://img.shields.io/github/stars/Ghost01900/PTA-ZJU-C-Solutions?style=social)](https://github.com/Ghost01900/PTA-C-solutions-ZJU/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ghost01900/PTA-ZJU-C-Solutions)
